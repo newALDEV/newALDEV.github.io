@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nuddleiei_Develop_BLOG"
+title                    : "newALDEV_Develop_BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nuddeleiei"
-description              : "그림그리는 개발자"
+name                     : "ALDEV"
+description              : "초보 개발자"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nuddleiei"
+  name             : "newALDEV"
   avatar           : "https://pbs.twimg.com/media/Di_2tx5UwAAfQaE.jpg"
   # path of avatar image, e.g. "./assets/images/bio-photo.jpg"
-  bio              : "그림 그리는 개발자 ysk85442@gmail.com"
-  location         : "경기도 하남시"
+  bio              : "초보 개발자 chlrkdgns34@gmail.com"
+  location         : "서울시 광진구"
   email            :
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Nuddleiei/"
+      url: "https://github.com/newALDEV/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
