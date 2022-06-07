@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "newALDEV_Develop_BLOG"
+title                    : "ALDEV's_Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ALDEV"
@@ -105,7 +105,7 @@ author:
   name             : "newALDEV"
   avatar           : "https://pbs.twimg.com/media/Di_2tx5UwAAfQaE.jpg"
   # path of avatar image, e.g. "./assets/images/bio-photo.jpg"
-  bio              : "초보 개발자 chlrkdgns34@gmail.com"
+  bio              : "초보 개발자"
   location         : "서울시 광진구"
   email            :
   links:
